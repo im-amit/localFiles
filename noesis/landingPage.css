@@ -1,18 +1,21 @@
 html,body{
   width: 100%;
   height: 100%;
+  background-image: url("./assets/skull.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .bg-1{
-  background-image: url("assets/bgNoesis3.jpg");
-  color: #ffffff;
+  color: black;
   width: 50%;
   height: 100%;
   float: left;
+  position: absolute;
+  top: 50%;
 
 }
 .bg-2{
-  background-image: url("assets/bgZygon4.jpg");
-  color: #ffffff;
+  color: black;
   width: 50%;
   height: 100%;
   float: right;
